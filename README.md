@@ -1,7 +1,7 @@
 # Zudek
 
-Algo por aca
+Algo por acá
 
 ## Hola
 
-mas r aca
+Más por acá
